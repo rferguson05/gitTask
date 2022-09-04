@@ -1,2 +1,2 @@
-let message = "Git is awesome!";
-console.log(message);
+let message = prompt("What is your message?");
+alert(message);
